@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "questionText": "2 + 3 = ?",
+      "options": [
+        "A. 8",
+        "B. 6",
+        "C. 5",
+        "D. 10"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "questionText": "10 + 3 =?",
+      "options": [
+        "A. 13",
+        "B. 113",
+        "C. 103",
+        "D. 1300"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "questionText": "15 + 3 = ?",
+      "options": [
+        "A. 19",
+        "B. 18",
+        "C. 17",
+        "D. 15"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "questionText": "20 + 3 = ?",
+      "options": [
+        "A. 21",
+        "B. 20",
+        "C. 14",
+        "D. 23"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "questionText": "25 + 3 = ?",
+      "options": [
+        "A. 26",
+        "B. 28",
+        "C. 27",
+        "D. 29"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}
